@@ -11,7 +11,7 @@ showinSearchEngines: true
 
 
 # Set basic server info
-serverName: TechCraftSMP
+serverName: TechCraft
 serverDescription: TechCraftSMP - play your way with the a community!
 serverIP: join.techcraftserver.uk
 useBedrockForOnlineStatus: false

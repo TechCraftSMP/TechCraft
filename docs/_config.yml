@@ -12,7 +12,7 @@ showinSearchEngines: true
 
 # Set basic server info
 serverName: TechCraftServer
-serverDescription: TechCraft - play your way with the a community!
+serverDescription: TechCraft - play your way with the community!
 serverIP: join.techcraftserver.uk
 useBedrockForOnlineStatus: false
 

@@ -5,14 +5,12 @@ navname: About
 
 # {{ site.serverName }}
 
-Moonrise is a simple, flexible template website for Minecraft servers.
+TechCraftSMP , Play your way with a community!
 
-[GitHub](https://github.com/coffeebank/moonrise)
+Please join the discord and apply for whitelist!
 
+https://discord.gg/nnJvCqE5mW
 
-# Terms of Use
-
-Moonrise MC is free for use [under the MIT license](https://github.com/coffeebank/moonrise).
 
 
 # Privacy Policy

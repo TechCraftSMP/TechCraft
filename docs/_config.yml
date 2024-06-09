@@ -1,8 +1,8 @@
 # Set this website's info
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
-url: "https://coffeebank.github.io"
-baseurl: "/moonrise"
+url: "https://techcraftsmp.github.io"
+baseurl: "/techcraft"
 siteIcon: /media/android-chrome-192x192.png
 siteYear: 2020
 siteFooterlink: /about
@@ -12,7 +12,7 @@ showinSearchEngines: true
 
 # Set basic server info
 serverName: TechCraft
-serverDescription: TechCraftSMP - play your way with the a community!
+serverDescription: TechCraft - play your way with the a community!
 serverIP: join.techcraftserver.uk
 useBedrockForOnlineStatus: false
 

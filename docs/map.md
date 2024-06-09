@@ -1,4 +1,4 @@
 ---
 layout: redirect
-tourl: map.techcraftserver.uk:21250
+tourl: http://map.techcraftserver.uk:21250
 ---
